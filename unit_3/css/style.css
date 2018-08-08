@@ -1,0 +1,32 @@
+h1 {
+	font-family: Boston Traffic, serif;
+	font-size: 30pt;
+	text-align: center;
+	color: #9D00A6;
+	border-bottom: 2px #9D00A6;
+}
+p {
+	font-family:silom, serif;
+	font-size: 15pt;
+	text-align: center;
+	color: #9D00A6;
+	font-style: italic;
+}
+h2 {
+	font-family:courier, courier-new, serif;
+	font-size: 15pt;
+	color: #9D00A6;
+	text-align: center;
+}
+h3 {
+	font-family:courier, courier-new, serif;
+	font-size: 15pt;
+	color: #9D00A6;
+	text-align: center;
+}
+img {
+	align: center;
+}
+body {
+	background-color: #68F205;
+}
